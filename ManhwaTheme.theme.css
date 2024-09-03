@@ -1,0 +1,46 @@
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+:root {
+    --app-bg: url('https://i.imgur.com/BRIeuQ9.jpeg');
+    --app-blur: 5px;
+    --app-margin: 24px;
+    --app-radius: 8px;
+    --accent-hue: 231;
+    --accent-saturation: 60%;
+    --accent-lightness: 41%;
+    --accent-opacity: 1;
+    --sidebar-color: rgb(33,143,243,0.15);
+    --main-content-color: rgb(33,143,243,0.15);
+    --undefined: 0;
+    --interactive-normal: #B1E7FF;
+    --interactive-hover: #00BCD4;
+    --interactive-active: #03A9F4;
+    --interactive-muted: #777;
+    --undefined: 0;
+    --background-modifier-hover: rgba(255,255,255,0.075);
+    --background-modifier-selected: rgb(67,69,77,0.31);
+    --message-color: rgba(0,0,0,0.4);
+    --message-radius: 8px;
+    --message-padding-top: 8px;
+    --message-padding-side: 8px;
+    --undefined: 0;
+    --reply-hue: 226;
+    --reply-saturation: 77%;
+    --reply-lightness: 61%;
+    --reply-opacity: 1;
+    --textarea-color: 255,255,255;
+    --textarea-alpha: 0.06;
+    --textarea-alpha-focus: 0.15;
+    --textarea-radius: 22px;
+    --card-color: rgb(61,76,109,0.27);
+    --card-color-hover: rgba(0,0,0,0.5);
+    --card-color-select: rgba(0,0,0,0.7);
+    --button-height: 32px;
+    --button-padding: 0 16px;
+    --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+
+
